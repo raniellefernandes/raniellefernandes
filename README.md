@@ -1,7 +1,6 @@
 ## Oi, sou Ranielle Fernandes 👋🏽
-🔥 Sou estudante de Design Gráfico 
-<br/>
-⏩ Saiba mais em https://raniellefernandes.vercel.app/.
+- 🔥 Sou estudante de Design Gráfico 
+- ⏩ Saiba mais em https://raniellefernandes.vercel.app/
 
 <br/>
 
