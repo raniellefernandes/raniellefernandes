@@ -1,5 +1,5 @@
 ## Oi, sou Ranielle Fernandes 👋🏽
-- 🔥 Sou estudante de Design Gráfico 
+- 🔥 UX/UI Júnior
 - ⏩ Saiba mais em https://raniellefernandes.vercel.app/
 
 <br/>
