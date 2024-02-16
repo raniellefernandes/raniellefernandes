@@ -5,6 +5,6 @@
 <br/>
 
 ### Ferramentas
-<img src="https://skillicons.dev/icons?i=figma,css,html,ai,ps,pr,xd" />
+<img src="https://skillicons.dev/icons?i=figma,css,html,ai,id,ps,pr,xd" />
 
 <br/>
